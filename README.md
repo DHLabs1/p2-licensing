@@ -1,6 +1,6 @@
 # Cloud Provisioning - P2 Licensing in Microsoft Azure's Entra ID  <p align="center"> 
 
-<img width="600" height="400" alt="image" src="https://github.com/userattachments/assets/14806b36-bc52-44a8-a825-615241d884e0" />
+<img width="600" height="400" alt="image" src="https://github.com/DHLabs1/p2-licensing/blob/93be3e88c08ae1e749f957b19d867c449b835abe/screenshots/560031642-14806b36-bc52-44a8-a825-615241d884e0.png" />
 </p>
 
 <h1>Fully Provisioning Accounts with P2 Licenses for Users (Azure)</h1>
@@ -18,7 +18,7 @@ This tutorial outlines the process of fully provisioning user accounts, assignin
 <h2>Assigned Licenses</h2> 
 
 <p> 
-<img width="1404" height="709" alt="image" src="https://github.com/userattachments/assets/b56dd5be-9d99-455c-971b-87b868587458" /> 
+<img width="1404" height="709" alt="image" src="https://github.com/DHLabs1/p2-licensing/blob/93be3e88c08ae1e749f957b19d867c449b835abe/screenshots/Kobe%20Bryant.JPG" /> 
 
 </p> 
 <p> 
@@ -28,7 +28,7 @@ Assigned P2 license to user Kobe Bryant.
 <br /> 
 
 <p> 
-<img width="1441" height="735" alt="image" src="https://github.com/userattachments/assets/39cc0299-8264-4329-abe8-4323398beba4" /> 
+<img width="1441" height="735" alt="image" src="https://github.com/DHLabs1/p2-licensing/blob/93be3e88c08ae1e749f957b19d867c449b835abe/screenshots/Kevin%20Durant.JPG" /> 
 
 </p> 
 <p> 
